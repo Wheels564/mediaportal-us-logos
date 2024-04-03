@@ -754,6 +754,10 @@
 			<File>Cheddar Business.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="CICOD32" />
+			<File>tvo.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Cine Estelar">
 				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
 			</Item>
@@ -6157,6 +6161,18 @@
 			<File>WGN-TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="WGTEDT" />
+			<File>WGTE TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WGTEDT2" />
+			<File>PBS Kids.svg</File>
+		</Channel>
+				<Channel>
+			<Item Name="WGTEDT3" />
+			<File>Create - Dark.svg</File>
+		</Channel>
+		<Channel>
 			<Item Name="WHDH" />
 			<File>WHDH.png</File>
 		</Channel>
@@ -6233,6 +6249,30 @@
 			<File>Willow.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="WJBKDT" />
+			<File>CBS HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WJBKDT2" />
+			<File>Movies - Dark.svg</File>
+		</Channel>
+		<Channel>
+			<Item Name="WJBKDT3" />
+			<File>Buzzr.svg</File>
+		</Channel>
+		<Channel>
+			<Item Name="WJBKDT4" />
+			<File>Heroes and Icons - Dark.svg</File>
+		</Channel>
+		<Channel>
+			<Item Name="WJBKDT5" />
+			<File>Catchy TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WJBKDT6" />
+			<File>Fox Weather.svg</File>
+		</Channel>
+		<Channel>
 			<Item Name="WJLA 24/7 News" />
 			<File>WJLA 247 News.png</File>
 		</Channel>
@@ -6247,6 +6287,30 @@
 		<Channel>
 			<Item Name="WKAQ-TV" />
 			<File>WKAQ-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WKBDDT" />
+			<File>WKBD TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WKBDDT2" />
+			<File>Comet.svg</File>
+		</Channel>
+		<Channel>
+			<Item Name="WKBDDT3" />
+			<File>Charge - Dark.svg</File>
+		</Channel>
+		<Channel>
+			<Item Name="WKBDDT4" />
+			<File>TBD.svg</File>
+		</Channel>
+		<Channel>
+			<Item Name="WKBDDT5" />
+			<File>Start TV - Dark.svg</File>
+		</Channel>
+		<Channel>
+			<Item Name="WKBDDT6" />
+			<File>QVC - Dark.svg</File>
 		</Channel>
 		<Channel>
 			<Item Name="WLAE-TV" />
@@ -6292,6 +6356,42 @@
 			<File>WMLW-TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="WMNTCD" />
+			<File>MyNetworkTV - Dark.svg</File>
+		</Channel>
+		<Channel>
+			<Item Name="WMNTCD2" />
+			<File>Antenna TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WMNTCD3" />
+			<File>This TV - Dark.svg</File>
+		</Channel>
+		<Channel>
+			<Item Name="WMNTCD4" />
+			<File>GetTV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WMNTCD5" />
+			<File>Grio TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WMNTCD6" />
+			<File>Shop LC.svg</File>
+		</Channel>
+		<Channel>
+			<Item Name="WMNTCD7" />
+			<File>NewsNet.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WMNTCD8" />
+			<File>Sports News Highlights.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WMNTCD9" />
+			<File>Cozi TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="WMOR-TV" />
 			<File>WMOR-TV.png</File>
 		</Channel>
@@ -6302,6 +6402,22 @@
 		<Channel>
 			<Item Name="WMYS-LD" />
 			<File>WMYS-LD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WMYDDT" />
+			<File>The CW.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WMYDDT2" />
+			<File>Antenna TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WMYDDT3" />
+			<File>ion mystery.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WMYDDT4" />
+			<File>HSN.SVG</File>
 		</Channel>
 		<Channel>
 			<Item Name="WNBC" />
@@ -6333,6 +6449,22 @@
 		<Channel>
 			<Item Name="WNOL-TV" />
 			<File>WNOL-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WNWODT" />
+			<File>NBC HD - Dark.svg</File>
+		</Channel>
+		<Channel>
+			<Item Name="WNWODT2" />
+			<File>Charge - Dark.svg</File>
+		</Channel>
+		<Channel>
+			<Item Name="WNWODT3" />
+			<File>Comet.svg</File>
+		</Channel>
+		<Channel>
+			<Item Name="WNWODT4" />
+			<File>TBD.svg</File>
 		</Channel>
 		<Channel>
 			<Item Name="WNYE-TV" />
@@ -6460,11 +6592,75 @@
 			<File>WTNC-LD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="WTOLDT" />
+			<File>CBS HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WTOLDT2" />
+			<File>true crime.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WTOLDT3" />
+			<File>Grit.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WTOLDT4" />
+			<File>Quest.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WTOLDT5" />
+			<File>Shop LC.svg</File>
+		</Channel>
+		<Channel>
+			<Item Name="WTOLDT6" />
+			<File>Get TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WTOLDT7" />
+			<File>The Nest.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WTOLDT8" />
+			<File>Laff.svg</File>
+		</Channel>
+		<Channel>
 			<Item Name="WTVD-D1">
 				<Provider>OTA (North Carolina, Raleigh)</Provider>
 			</Item>
 			<Item Name="WTVD" />
 			<File>WTVD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WTVGDT" />
+			<File>ABC HD - Dark.svg</File>
+		</Channel>
+		<Channel>
+			<Item Name="WTVGDT2" />
+			<File>The CW.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WTVGDT3" />
+			<File>MeTV.svg</File>
+		</Channel>
+		<Channel>
+			<Item Name="WTVGDT4" />
+			<File>The 365.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WTVGDT5" />
+			<File>Ion Television.svg</File>
+		</Channel>
+		<Channel>
+			<Item Name="WTVGDT6" />
+			<File>dabl.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WTVGDT7" />
+			<File>WeatherNation.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WTVGDT8" />
+			<File>Outlaw.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="WTVZ HD">
@@ -6491,6 +6687,30 @@
 		<Channel>
 			<Item Name="WUPL" />
 			<File>WUPL.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WUPWDT" />
+			<File>WUPW TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WUPWDT2" />
+			<File>Bounce TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WUPWDT3" />
+			<File>ion mystery.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WUPWDT4" />
+			<File>Court TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WUPWDT5" />
+			<File>Defy.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WUPWDT6" />
+			<File>Newsy.svg</File>
 		</Channel>
 		<Channel>
 			<Item Name="WUVC-DT">
@@ -6523,6 +6743,26 @@
 			<File>WVUE-DT.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="WWJDT" />
+			<File>CBS HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WWJDT2" />
+			<File>Start TV - Dark.svg</File>
+		</Channel>
+		<Channel>
+			<Item Name="WWJDT3" />
+			<File>dabl.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WWJDT4" />
+			<File>Fave TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WWJDT5" />
+			<File>Story TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="WWL-TV" />
 			<File>WWL-TV.png</File>
 		</Channel>
@@ -6533,6 +6773,26 @@
 		<Channel>
 			<Item Name="WXTV-DT" />
 			<File>WXTV-DT.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WXYZDT" />
+			<File>WXYZ TV</File>
+		</Channel>
+		<Channel>
+			<Item Name="WXYZDT2" />
+			<File>Bounce TV</File>
+		</Channel>
+		<Channel>
+			<Item Name="WXYZDT3" />
+			<File>Laff.svg</File>
+		</Channel>
+		<Channel>
+			<Item Name="WXYZDT4" />
+			<File>Court TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WXYZDT5" />
+			<File>Shop LC.svg</File>
 		</Channel>
 		<Channel>
 			<Item Name="WYCC" />
