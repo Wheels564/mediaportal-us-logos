@@ -184,7 +184,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="WJBKDT" />
-			<File>CBS.svg</File>
+			<File>CBS - Dark.svg</File>
 		</Channel>
 		<Channel>
 			<Item Name="WJBKDT2" />
@@ -200,7 +200,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="WJBKDT5" />
-			<File>Catchy TV.png</File>
+			<File>Catchy TV.svg</File>
 		</Channel>
 		<Channel>
 			<Item Name="WJBKDT6" />
@@ -208,7 +208,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="WKBDDT" />
-			<File>WKBD TV.png</File>
+			<File>WKBD TV.svg</File>
 		</Channel>
 		<Channel>
 			<Item Name="WKBDDT2" />
@@ -232,11 +232,11 @@
 		</Channel>
 		<Channel>
 			<Item Name="WMNTCD" />
-			<File>MyNetworkTV - Dark.svg</File>
+			<File>MyNetworkTV.svg</File>
 		</Channel>
 		<Channel>
 			<Item Name="WMNTCD2" />
-			<File>Antenna TV.png</File>
+			<File>Antenna TV.svg</File>
 		</Channel>
 		<Channel>
 			<Item Name="WMNTCD3" />
@@ -248,7 +248,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="WMNTCD5" />
-			<File>Grio TV.png</File>
+			<File>Grio TV.svg</File>
 		</Channel>
 		<Channel>
 			<Item Name="WMNTCD6" />
@@ -260,7 +260,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="WMNTCD8" />
-			<File>Sports News Highlights.png</File>
+			<File>Sports News Highlights.svg</File>
 		</Channel>
 		<Channel>
 			<Item Name="WMNTCD9" />
@@ -299,11 +299,11 @@
 			<File>TBD.svg</File>
 		<Channel>
 			<Item Name="WTOLDT" />
-			<File>CBS.svg</File>
+			<File>CBS - Dark.svg</File>
 		</Channel>
 		<Channel>
 			<Item Name="WTOLDT2" />
-			<File>true crime.png</File>
+			<File>true crime.svg</File>
 		</Channel>
 		<Channel>
 			<Item Name="WTOLDT3" />
@@ -355,7 +355,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="WTVGDT7" />
-			<File>WeatherNation - Dark.png</File>
+			<File>WeatherNation.svg</File>
 		</Channel>
 		<Channel>
 			<Item Name="WTVGDT8" />
@@ -383,7 +383,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="WUPWDT" />
-			<File>WUPW TV.png</File>
+			<File>WUPW TV.svg</File>
 		</Channel>
 		<Channel>
 			<Item Name="WUPWDT2" />
@@ -391,7 +391,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="WUPWDT3" />
-			<File>ion mystery.png</File>
+			<File>ion mystery.svg</File>
 		</Channel>
 		<Channel>
 			<Item Name="WUPWDT4" />
@@ -399,7 +399,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="WUPWDT5" />
-			<File>Defy.png</File>
+			<File>Defy.svg</File>
 		</Channel>
 		<Channel>
 			<Item Name="WUPWDT6" />
@@ -419,19 +419,19 @@
 		</Channel>
 		<Channel>
 			<Item Name="WWJDT4" />
-			<File>Fave TV.png</File>
+			<File>Fave TV.svg</File>
 		</Channel>
 		<Channel>
 			<Item Name="WWJDT5" />
-			<File>Story TV.png</File>
+			<File>Story TV.svg</File>
 		</Channel>
 		<Channel>
 			<Item Name="WXYZDT" />
-			<File>WXYZ TV.png</File>
+			<File>WXYZ TV.svg</File>
 		</Channel>
 		<Channel>
 			<Item Name="WXYZDT2" />
-			<File>Bounce TV</File>
+			<File>Bounce TV.svg</File>
 		</Channel>
 		<Channel>
 			<Item Name="WXYZDT3" />
