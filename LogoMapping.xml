@@ -172,7 +172,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="WGTEDT" />
-			<File>WGTE TV.png</File>
+			<File>PBS.svg</File>
 		</Channel>
 		<Channel>
 			<Item Name="WGTEDT2" />
@@ -279,6 +279,10 @@
 			<File>ion mystery.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="WMYDDT4" />
+			<File>HSN.svg</File>
+		</Channel>
+		<Channel>
 			<Item Name="WNWODT" />
 			<File>NBC HD - Dark.svg</File>
 		</Channel>
@@ -356,6 +360,26 @@
 		<Channel>
 			<Item Name="WTVGDT8" />
 			<File>Outlaw.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WTVSDT" />
+			<File>PBS.svg</File>
+		</Channel>
+		<Channel>
+			<Item Name="WTVSDT2" />
+			<File>PBS Kids.svg</File>
+		</Channel>
+		<Channel>
+			<Item Name="WTVSDT3" />
+			<File>Create - Dark.svg</File>
+		</Channel>
+		<Channel>
+			<Item Name="WTVSDT4" />
+			<File>PBS World.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WTVSDT5" />
+			<File>MLC.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="WUPWDT" />
