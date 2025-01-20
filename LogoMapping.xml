@@ -3,16 +3,6 @@
 <!-- ******************************************************************** -->
 	<TV>
 		<Channel>
-			<Item Name="AccuWeather DC MD VA">
-				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
-			</Item>
-			<Item Name="AccuWeather HD DC MD VA">
-				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
-			</Item>
-			<Item Name="AccuWeather" />
-			<File>AccuWeather.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Antenna TV" />
 			<Item Name="Antenna">
 				<Provider>OTA (Ohio, Toledo)</Provider>
