@@ -230,6 +230,10 @@
 			<Item Name="WKBDDT6" />
 			<File>QVC - Dark.svg</File>
 		</Channel>
+			<Channel>
+			<Item Name="WKBDDT7" />
+			<File>METOONS - Light.png</File>
+		</Channel>
 		<Channel>
 			<Item Name="WMNTCD" />
 			<File>MyNetworkTV.svg</File>
