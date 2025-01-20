@@ -115,7 +115,7 @@
 			<Item Name="Movies">
 				<Provider>OTA (Michigan, Detroit)</Provider>
 			</Item>
-			<File>Movies.png</File>
+			<File>Movies.svg</File>
 		</Channel>
 		<Channel>
 			<Item Name="Newsy">
@@ -131,7 +131,7 @@
 				<Provider>OTA (Ohio, Toledo)</Provider>
 			</Item>
 			<Item Name="PBS Kids" />
-			<File>PBS Kids.png</File>
+			<File>PBS Kids.svg</File>
 		</Channel>
 		<Channel>
 			<Item Name="Quest">
@@ -152,7 +152,7 @@
 			<Item Name="WWJDT2">
 				<Provider>OTA (Michigan, Detroit)</Provider>
 			</Item>
-			<File>Start TV.png</File>
+			<File>Start TV.svg</File>
 		</Channel>
 		<Channel>
 			<Item Name="If it's what's new or what's next, it's on TBD. (TBD)">
@@ -168,7 +168,7 @@
 				<Provider>OTA (Ohio, Toledo)</Provider>
 			</Item>
 			<Item Name="The CW" />
-			<File>The CW.png</File>
+			<File>The CW.svg</File>
 		</Channel>
 		<Channel>
 			<Item Name="WGTEDT" />
@@ -180,11 +180,11 @@
 		</Channel>
 				<Channel>
 			<Item Name="WGTEDT3" />
-			<File>Create - Dark.svg</File>
+			<File>Create.svg</File>
 		</Channel>
 		<Channel>
 			<Item Name="WJBKDT" />
-			<File>CBS - Dark.svg</File>
+			<File>CBS.svg</File>
 		</Channel>
 		<Channel>
 			<Item Name="WJBKDT2" />
@@ -208,7 +208,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="WKBDDT" />
-			<File>WKBD TV.svg</File>
+			<File>The CW.svg</File>
 		</Channel>
 		<Channel>
 			<Item Name="WKBDDT2" />
@@ -303,7 +303,7 @@
 			<File>TBD.svg</File>
 		<Channel>
 			<Item Name="WTOLDT" />
-			<File>CBS HD.svg</File>
+			<File>CBS.svg</File>
 		</Channel>
 		<Channel>
 			<Item Name="WTOLDT2" />
