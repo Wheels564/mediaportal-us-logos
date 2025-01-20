@@ -216,7 +216,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="WKBDDT3" />
-			<File>Charge - Dark.svg</File>
+			<File>Charge.svg</File>
 		</Channel>
 		<Channel>
 			<Item Name="WKBDDT4" />
@@ -224,11 +224,11 @@
 		</Channel>
 		<Channel>
 			<Item Name="WKBDDT5" />
-			<File>Start TV - Dark.svg</File>
+			<File>Start TV.svg</File>
 		</Channel>
 		<Channel>
 			<Item Name="WKBDDT6" />
-			<File>QVC - Dark.svg</File>
+			<File>QVC.svg</File>
 		</Channel>
 			<Channel>
 			<Item Name="WKBDDT7" />
@@ -303,7 +303,7 @@
 			<File>TBD.svg</File>
 		<Channel>
 			<Item Name="WTOLDT" />
-			<File>CBS - Dark.svg</File>
+			<File>CBS HD.svg</File>
 		</Channel>
 		<Channel>
 			<Item Name="WTOLDT2" />
@@ -375,7 +375,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="WTVSDT3" />
-			<File>Create - Dark.svg</File>
+			<File>Create.svg</File>
 		</Channel>
 		<Channel>
 			<Item Name="WTVSDT4" />
@@ -415,7 +415,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="WWJDT2" />
-			<File>Start TV - Dark.svg</File>
+			<File>Start TV.svg</File>
 		</Channel>
 		<Channel>
 			<Item Name="WWJDT3" />
