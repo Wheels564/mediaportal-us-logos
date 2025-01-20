@@ -77,18 +77,18 @@
 			<File>Dabl.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Decades">
+			<Item Name="Catchy">
 				<Provider>OTA (Michigan, Detroit)</Provider>
 			</Item>
-			<File>Decades.png</File>
+			<File>Catchy TV.svg</File>
 		</Channel>
 		<Channel>
 			<Item Name="Fox HD" />
-			<File>Fox HD.png</File>
+			<File>Fox HD.svg</File>
 		</Channel>
 		<Channel>
 			<Item Name="Fox" />
-			<File>Fox.png</File>
+			<File>Fox.svg</File>
 		</Channel>
 		<Channel>
 			<Item Name="Grit">
