@@ -161,23 +161,23 @@
 			<File>The CW.svg</File>
 		</Channel>
 		<Channel>
-			<Item Name="WGTEDT" />
+			<Item Name="30-1 WGTEDT" />
 			<File>PBS.svg</File>
 		</Channel>
 		<Channel>
-			<Item Name="WGTEDT2" />
+			<Item Name="30-2 WGTEDT2" />
 			<File>PBS Kids.svg</File>
 		</Channel>
 				<Channel>
-			<Item Name="WGTEDT3" />
+			<Item Name="30-3 WGTEDT3" />
 			<File>Create.svg</File>
 		</Channel>
 		<Channel>
-			<Item Name="WJBKDT" />
+			<Item Name="2-1 WJBKDT" />
 			<File>Fox.svg</File>
 		</Channel>
 		<Channel>
-			<Item Name="WJBKDT2" />
+			<Item Name="2-2 WJBKDT2" />
 			<File>Movies.svg</File>
 		</Channel>
 		<Channel>
@@ -189,11 +189,11 @@
 			<File>Heroes and Icons - Dark.svg</File>
 		</Channel>
 		<Channel>
-			<Item Name="WJBKDT5" />
+			<Item Name="2-5 WJBKDT5" />
 			<File>Catchy TV.svg</File>
 		</Channel>
 		<Channel>
-			<Item Name="WJBKDT6" />
+			<Item Name="2-6 WJBKDT6" />
 			<File>Fox Weather.svg</File>
 		</Channel>
 		<Channel>
@@ -225,11 +225,11 @@
 			<File>METOONS.svg</File>
 		</Channel>
 		<Channel>
-			<Item Name="WMNTCD" />
+			<Item Name="48-1 WMNTCD" />
 			<File>MyNetworkTV.svg</File>
 		</Channel>
 		<Channel>
-			<Item Name="WMNTCD2" />
+			<Item Name="48-2 WMNTCD2" />
 			<File>Antenna TV.svg</File>
 		</Channel>
 		<Channel>
@@ -237,15 +237,15 @@
 			<File>This TV - Dark.svg</File>
 		</Channel>
 		<Channel>
-			<Item Name="WMNTCD4" />
+			<Item Name="48-4 WMNTCD4" />
 			<File>GetTV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="WMNTCD5" />
+			<Item Name="48-5 WMNTCD5" />
 			<File>Grio TV.svg</File>
 		</Channel>
 		<Channel>
-			<Item Name="WMNTCD6" />
+			<Item Name="48-6 WMNTCD6" />
 			<File>Shop LC.svg</File>
 		</Channel>
 		<Channel>
@@ -253,7 +253,7 @@
 			<File>NewsNet.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="WMNTCD8" />
+			<Item Name="48-8 WMNTCD8" />
 			<File>Sports News Highlights.svg</File>
 		</Channel>
 		<Channel>
@@ -261,15 +261,15 @@
 			<File>Cozi TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="WMYDDT" />
+			<Item Name="20-1 WMYDDT" />
 			<File>The CW.svg</File>
 		</Channel>
 		<Channel>
-			<Item Name="WMYDDT2" />
+			<Item Name="20-2 WMYDDT2" />
 			<File>Antenna TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="WMYDDT3" />
+			<Item Name="20-3 WMYDDT3" />
 			<File>ion mystery.png</File>
 		</Channel>
 		<Channel>
@@ -292,11 +292,11 @@
 			<Item Name="WNWODT4" />
 			<File>TBD.svg</File>
 		<Channel>
-			<Item Name="WTOLDT" />
+			<Item Name="11-1 WTOLDT" />
 			<File>CBS.svg</File>
 		</Channel>
 		<Channel>
-			<Item Name="WTOLDT2" />
+			<Item Name="11-2 WTOLDT2" />
 			<File>true crime.svg</File>
 		</Channel>
 		<Channel>
@@ -316,7 +316,7 @@
 			<File>Get TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="WTOLDT7" />
+			<Item Name="11-7 WTOLDT7" />
 			<File>The Nest.png</File>
 		</Channel>
 		<Channel>
@@ -324,11 +324,11 @@
 			<File>Laff.svg</File>
 		</Channel>
 		<Channel>
-			<Item Name="WTVGDT" />
+			<Item Name="13-1 WTVGDT" />
 			<File>ABC HD - Dark.svg</File>
 		</Channel>
 		<Channel>
-			<Item Name="WTVGDT2" />
+			<Item Name="13-2 WTVGDT2" />
 			<File>The CW.svg</File>
 		</Channel>
 		<Channel>
@@ -336,7 +336,7 @@
 			<File>MeTV.svg</File>
 		</Channel>
 		<Channel>
-			<Item Name="WTVGDT4" />
+			<Item Name="13-4 WTVGDT4" />
 			<File>The 365.png</File>
 		</Channel>
 		<Channel>
@@ -348,11 +348,11 @@
 			<File>Dabl.svg</File>
 		</Channel>
 		<Channel>
-			<Item Name="WTVGDT7" />
+			<Item Name="13-7 WTVGDT7" />
 			<File>WeatherNation.svg</File>
 		</Channel>
 		<Channel>
-			<Item Name="WTVGDT8" />
+			<Item Name="13-8 WTVGDT8" />
 			<File>Outlaw.png</File>
 		</Channel>
 		<Channel>
@@ -376,7 +376,7 @@
 			<File>MLC.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="WUPWDT" />
+			<Item Name="36-1 WUPWDT" />
 			<File>WUPW TV.svg</File>
 		</Channel>
 		<Channel>
@@ -384,7 +384,7 @@
 			<File>Bounce TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="WUPWDT3" />
+			<Item Name="36-3 WUPWDT3" />
 			<File>ion mystery.svg</File>
 		</Channel>
 		<Channel>
@@ -392,31 +392,31 @@
 			<File>Court TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="WUPWDT5" />
+			<Item Name="36-5 WUPWDT5" />
 			<File>Defy.svg</File>
 		</Channel>
 		<Channel>
-			<Item Name="WUPWDT6" />
+			<Item Name="36-6 WUPWDT6" />
 			<File>Newsy.svg</File>
 		</Channel>
 		<Channel>
-			<Item Name="WWJDT" />
+			<Item Name="62-1 WWJDT" />
 			<File>CBS.svg</File>
 		</Channel>
 		<Channel>
-			<Item Name="WWJDT2" />
+			<Item Name="62-2 WWJDT2" />
 			<File>Start TV.svg</File>
 		</Channel>
 		<Channel>
-			<Item Name="WWJDT3" />
+			<Item Name="62-3 WWJDT3" />
 			<File>Dabl.svg</File>
 		</Channel>
 		<Channel>
-			<Item Name="WWJDT4" />
+			<Item Name="62-4 WWJDT4" />
 			<File>Fave TV.svg</File>
 		</Channel>
 		<Channel>
-			<Item Name="WWJDT5" />
+			<Item Name="62-5 WWJDT5" />
 			<File>Story TV.svg</File>
 		</Channel>
 		<Channel>
