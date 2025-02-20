@@ -197,31 +197,31 @@
 			<File>Fox Weather.svg</File>
 		</Channel>
 		<Channel>
-			<Item Name="WKBDDT" />
+			<Item Name="50-1 WKBDDT" />
 			<File>The CW.svg</File>
 		</Channel>
 		<Channel>
-			<Item Name="WKBDDT2" />
+			<Item Name="50-2 WKBDDT2" />
 			<File>Comet.svg</File>
 		</Channel>
 		<Channel>
-			<Item Name="WKBDDT3" />
+			<Item Name="50-3 WKBDDT3" />
 			<File>Charge.svg</File>
 		</Channel>
 		<Channel>
-			<Item Name="WKBDDT4" />
+			<Item Name="50-4 WKBDDT4" />
 			<File>TBD.svg</File>
 		</Channel>
 		<Channel>
-			<Item Name="WKBDDT5" />
+			<Item Name="50-5 WKBDDT5" />
 			<File>Start TV.svg</File>
 		</Channel>
 		<Channel>
-			<Item Name="WKBDDT6" />
+			<Item Name="50-6 WKBDDT6" />
 			<File>QVC.svg</File>
 		</Channel>
 			<Channel>
-			<Item Name="WKBDDT7" />
+			<Item Name="50-7 WKBDDT7" />
 			<File>METOONS.svg</File>
 		</Channel>
 		<Channel>
