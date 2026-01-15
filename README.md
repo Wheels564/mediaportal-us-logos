@@ -4,7 +4,7 @@
 
 This repository contains American television channel and radio station logos for use with [MediaPortal 1](https://www.team-mediaportal.com/). 
 
-The folders contain high quality SVG and PNG logos with dark and light designs. All Thanks go out the the MediaPortal team.
+The folders contain high quality PNG logos. All Thanks go out the the MediaPortal team.
 
 
 Toledo, OH and Detroit, MI Over-the-Air Logo Pack Installation
