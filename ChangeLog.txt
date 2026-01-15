@@ -1,0 +1,7 @@
+
+Changelog for: Toledo, OH and Detroit, MI Over-the-Air Logo Pack
+
+
+1.0 2019-07-10
+ - Initial Release
+
