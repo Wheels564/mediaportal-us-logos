@@ -9,6 +9,9 @@ The folders contain high quality PNG logos. All Thanks go out the the MediaPorta
 
 Toledo, OH and Detroit, MI Over-the-Air Logo Pack Installation
 
+To download the mediaportal logos.zip click on the Mediaportal Logos.zip file. To the right of View raw is an arrow pointing down. 
+
+Click on download raw file and save. Unzip the files into a temporary folder.
 
 Place unzipped files in the (hidden) folder:
 
