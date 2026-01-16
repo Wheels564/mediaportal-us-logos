@@ -1,8 +1,8 @@
-# Toledo OH and Detroit MI TV and radio logos for MediaPortal 1
+# Toledo OH and Detroit MI TV logos for MediaPortal 1
 
 ## Introduction
 
-This repository contains American television channel and radio station logos for use with [MediaPortal 1](https://www.team-mediaportal.com/). 
+This repository contains American television channel station logos for use with [MediaPortal 1](https://www.team-mediaportal.com/). 
 
 The folders contain high quality PNG logos. All Thanks go out the the MediaPortal team.
 
